@@ -3,8 +3,8 @@
 This project focuses on solving a basic image classification problem using Keras with TensorFlow as its backend. The objective is to create, train, and evaluate a neural network model capable of accurately predicting digits from hand-written images.<br>
 
 ## Dataset<br>
-**Source**: MNIST database, accessed via the Keras API of the TensorFlow library.<br>
-**Description**: Contains grayscale images of hand-written digits (0 to 9) and their corresponding labels.<br>
+-**Source**: MNIST database, accessed via the Keras API of the TensorFlow library.<br>
+-**Description**: Contains grayscale images of hand-written digits (0 to 9) and their corresponding labels.<br>
 ## Preprocessing<br>
 **Data Splitting**: Features (pixel values of the images) and target labels are split into training and testing datasets.<br>
 **Label Encoding**: Target labels are encoded to facilitate model training.<br>
