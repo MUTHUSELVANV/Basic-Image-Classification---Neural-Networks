@@ -11,6 +11,7 @@ This project focuses on solving a basic image classification problem using Keras
 ## Model Architecture<br>
 - **Input Layer**: 784 values corresponding to the initial 28x28 pixel values of the images.<br>
 - **Hidden Layers**: Two hidden layers, each with 128 activations to process a single output value.<br>
+![NN](https://github.com/MUTHUSELVANV/Basic-Image-Classification---Neural-Networks/assets/129670171/9a063451-584c-4361-a106-0e613f47a19a)
 ## Training and Evaluation<br>
 - **Training**: Model is trained using the training dataset.<br>
 - **Evaluation**: Performance is evaluated using the testing dataset.<br>
